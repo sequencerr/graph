@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">Graph</string>
+	<string name="placeholder_a">a:</string>
+	<string name="placeholder_b">b:</string>
+	<string name="placeholder_c">c:</string>
+	<string name="placeholder_d">d:</string>
+	<string name="placeholder_dy">dy:</string>
+	<string name="placeholder_dx">dx:</string>
+	<string name="button_text">Build Graph</string>
+	<string name="bx">x<sup>2</sup></string>
+	<string name="ax">x<sup>3</sup></string>
+</resources>
